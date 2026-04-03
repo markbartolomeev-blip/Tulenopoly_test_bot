@@ -4,7 +4,7 @@ import time
 from config import BOARD, START_MONEY, CIRCLE_BONUS, TAX_AMOUNT
 
 # === ВПИШИ СВОЙ ТОКЕН НИЖЕ ===
-TOKEN = 'ТВОЙ_ТОКЕН_ТУТ'
+TOKEN = '8483249261:AAF2GFIHmJ2uBXvXgeYR_nDf1JJ-SuE_7LI'
 # =============================
 
 bot = telebot.TeleBot(TOKEN)
